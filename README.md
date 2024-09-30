@@ -35,6 +35,7 @@
 
 ## Linear Regression
 -  [Bike sharing: Multiple Linear Regression](https://www.kaggle.com/code/shrutisaxena/bike-sharing-multiple-linear-regression)
+-  [predict_rossman_store_sales](https://www.kaggle.com/code/mustiztemiz/predict-rossman-store-sales)
 
 
 ## Matplotlib
