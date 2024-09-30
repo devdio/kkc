@@ -17,8 +17,6 @@
 -  [Roller Coaster Database](https://www.kaggle.com/datasets/robikscube/rollercoaster-database/code)
 -  [blog. Titanic 생존자 예측 ②](https://seo00.tistory.com/61)
 -  [Kaggle.Shopping Trends Unveiled: EDA for Beginners](https://www.kaggle.com/code/iamsouravbanerjee/shopping-trends-unveiled-eda-for-beginners)
-
--  
 -  [youtube.https://www.youtube.com/watch?v=rAI4ITRMkTY&list=PLTsu3dft3CWhLHbHTTzvG3Vx8XDWemG17&index=2](https://www.youtube.com/watch?v=rAI4ITRMkTY&list=PLTsu3dft3CWhLHbHTTzvG3Vx8XDWemG17&index=2)
 
 ## EDA Datasets
