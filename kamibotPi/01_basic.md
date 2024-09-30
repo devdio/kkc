@@ -235,3 +235,65 @@ kamibot.close()
 
 ```
 
+## Top Motor (Degree)
+
+```python
+import random
+from pyKamipi.pibot import *
+
+kamibot = KamibotPi('COM3', 57600)
+
+# ------------------------------------------------
+# top_motor_degree(direction, degrees)
+# ------------------------------------------------
+kamibot.top_motor_degree("l", 180)  # turn left
+kamibot.delay(1)
+
+kamibot.top_motor_degree("r", 180)  # turn right
+kamibot.delay(1)
+
+kamibot.close()
+```
+  
+## Top Motor (Absolute Position)
+```python
+import random
+from pyKamipi.pibot import *
+
+# 카미봇 연결
+kamibot = KamibotPi('COM3', 57600)
+
+#----------------------------------------------------
+# top_motor_abspos(asolute-position)
+#--------------------------------------
+kamibot.top_motor_abspos(0)
+kamibot.delay(1)
+
+kamibot.top_motor_abspos(90)
+kamibot.delay(1)
+
+kamibot.top_motor_abspos(180)
+kamibot.delay(1)
+
+kamibot.close()
+
+```
+
+## Top Motor (Time Duration)
+```python
+from pyKamipi.pibot import *
+
+kamibot = KamibotPi('COM3', 57600)
+
+# ---------------------------------------------
+# top_motor_time(direction, sec)
+#--------------------------------------------
+kamibot.top_motor_time("l", 5)
+kamibot.delay(1)
+
+kamibot.top_motor_time("r", 5)
+kamibot.delay(1)
+
+kamibot.close()
+
+```
