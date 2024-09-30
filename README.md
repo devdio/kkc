@@ -10,7 +10,7 @@
 -  [kaggle. Titanic: EDA to ML (Beginner)](https://www.kaggle.com/code/dejavu23/titanic-eda-to-ml-beginner)
 -  [Kaggle.EDA To Prediction(DieTanic)](https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic)
 -  [Kaggle. Topic 1. Exploratory Data Analysis with Pandas](https://www.kaggle.com/code/kashnitsky/topic-1-exploratory-data-analysis-with-pandas), [Yury Kashnitsky](https://www.kaggle.com/kashnitsky/code)
-
+-  [Marketing Analytics - Exploratory/Statistical data analysis project](https://jovian.com/vamshigarpelly/marketing-analytics-eda-project)
   
 - [Diamonds](https://www.kaggle.com/datasets/shivam2503/diamonds/data)
 -  [Roller Coaster Database](https://www.kaggle.com/datasets/robikscube/rollercoaster-database/code)
