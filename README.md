@@ -34,6 +34,10 @@
 -  [kNN Classifier Tutorial](https://www.kaggle.com/code/prashant111/knn-classifier-tutorial)
 
 
+## Linear Regression
+-  [Bike sharing: Multiple Linear Regression](https://www.kaggle.com/code/shrutisaxena/bike-sharing-multiple-linear-regression)
+
+
 ## Matplotlib
 -  [Matplotlib tutorial for beginners](https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners)
 -  [Matplotlib - A Complete Data Visualization Guide](https://www.kaggle.com/code/berkayalan/matplotlib-a-complete-data-visualization-guide)
