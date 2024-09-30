@@ -30,6 +30,8 @@
 - [kaggle. Numpy Array Library: 160+ Exercises] (https://www.kaggle.com/code/abhi8923shriv/numpy-array-library-160-exercises#Section-43---find-element-in-an-array-less-then-the-value-Provided)  
 
 
+## KNN
+-  [kNN Classifier Tutorial](https://www.kaggle.com/code/prashant111/knn-classifier-tutorial)
 
 
 ## Matplotlib
