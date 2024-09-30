@@ -24,7 +24,7 @@
 ## EDA Datasets
 - [Books Sales | EDA | Sales Prediction(99%)](https://www.kaggle.com/code/hknaralasetty/books-sales-eda-sales-prediction-99)
 - [Horror Movies - the best Hollywood Investments?](https://www.kaggle.com/datasets/sujaykapadnis/horror-movies-profits-dataset)
-- 
+- [Supermarket Sales Analytics](https://www.kaggle.com/code/nileshely/supermarket-sales-analytics)
 
 ## Test
 - [EDA -> Youtube Juke Dataset](https://www.youtube.com/watch?v=wUSDVGivd-8&t=17909s)
