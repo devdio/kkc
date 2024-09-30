@@ -42,3 +42,31 @@ For exit the program:
 2. type `q` key 
 ```
 
+## Measure the distance between your thumb and index finger 
+
+```python
+from helloai import *
+
+wnd = Window('wnd')
+camera = Camera()
+
+detector = HandsDetector()
+
+def loop():
+    img = camera.read()
+    img, landmarks = detector.process(img, draw=True)
+   
+    if len(landmarks) > 0:
+        length, img, _ = detector.distance(landmarks[4], landmarks[8], img, draw=True)
+        print(length)
+
+    wnd.show(img)
+
+# ---------------------------------------
+# For HelloAI
+# ---------------------------------------
+if __name__ == '__main__':
+    run()
+```
+
+- excercise) Adjusting Robot Speed Proportional to Distance
