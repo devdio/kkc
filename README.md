@@ -26,6 +26,7 @@
 -  [Seaborn tutorial for beginners](https://www.kaggle.com/code/prashant111/seaborn-tutorial-for-beginners)
 
 
-## [zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml/tree/master)
+## Git
+- [zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml/tree/master)
 
 
