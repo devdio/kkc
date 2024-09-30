@@ -202,6 +202,36 @@ kamibot.close()
 
 ## Melody
 ```
-The first argument can be any number from 0 to 83. For example, if you pass the number 24 as an argument, you are specifying a scale of three octaves.
+The first argument can be any number from 0 to 83. For example,
+
+36 : 4-Octave Do
+37 : 4-Octave Do#
+38 : 4-Octave Re
+39 : 4-Octave Re#
+40 : 4-Octave Mi
+41 : 4-Octave Fa
+42 : 4-Octave Fa#
+43 : 4-Octave Sol
+44 : 4-Octave Sol#
+45 : 4-Octave Ra
+46 : 4-Octave Ra#
+47 : 4-Octave Si
+48 : 5-Otave Do
+```
+
+```python
+from pyKamipi.pibot import *
+
+kamibot = KamibotPi('COM3', 57600)
+#----------------------------------------------
+#  melody(pitch, sec)
+#----------------------------------------------
+while True:
+  kamibot.melody(36, 1)
+  kamibot.melody(38, 1)
+  kamibot.melody(40, 1)
+
+kamibot.close()
+
 ```
 
