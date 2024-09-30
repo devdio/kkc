@@ -5,12 +5,12 @@
 ```python
 from pyKamipi.pibot import *
 
-# 카미봇 연결
+# Connect to KamibotPi
 kamibot = KamibotPi('COM9', 57600)
 
-# ------------------------------------------------
-# 콘트롤모드 go_dir_speed
-# ------------------------------------------------
+# -------------------------------------------------------------------------
+# go_dir_speed(left wheel direction, speed, right-wheel direction, speed)
+# -------------------------------------------------------------------------
 # 앞으로
 kamibot.go_dir_speed("f", 10, "f", 10)
 kamibot.delay(3)
