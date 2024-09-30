@@ -12,7 +12,8 @@
 -  [Kaggle. Topic 1. Exploratory Data Analysis with Pandas](https://www.kaggle.com/code/kashnitsky/topic-1-exploratory-data-analysis-with-pandas), [Yury Kashnitsky](https://www.kaggle.com/kashnitsky/code)
 -  [Marketing Analytics - Exploratory/Statistical data analysis project](https://jovian.com/vamshigarpelly/marketing-analytics-eda-project)
   
-- [Diamonds](https://www.kaggle.com/datasets/shivam2503/diamonds/data)
+-  [Diamonds](https://www.kaggle.com/datasets/shivam2503/diamonds/data)
+-  [Tips EDA](https://www.kaggle.com/code/sakshisatre/eda-on-tips-dataset)
 -  [Roller Coaster Database](https://www.kaggle.com/datasets/robikscube/rollercoaster-database/code)
 -  [blog. Titanic 생존자 예측 ②](https://seo00.tistory.com/61)
 -  [Kaggle.Shopping Trends Unveiled: EDA for Beginners](https://www.kaggle.com/code/iamsouravbanerjee/shopping-trends-unveiled-eda-for-beginners)
