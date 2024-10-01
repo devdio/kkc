@@ -42,6 +42,23 @@ while flag:
 kamibot.close()
 ```
 
+## Line-Tracer On/Off
+  
+```python
+# ------------------------------------------------
+# Line-Tracer On/Off
+# ------------------------------------------------
+from pyKamipi.pibot import *
+
+kamibot = KamibotPi('COM3', 57600)
+
+kamibot.toggle_linetracer(True, 100)
+kamibot.delay(10)
+kamibot.toggle_linetracer(False)
+
+kamibot.close()
+
+```
 
 
 
