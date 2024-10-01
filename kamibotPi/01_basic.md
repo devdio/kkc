@@ -1,5 +1,18 @@
 # Basic
 
+# Check COM Port  
+```shell
+pip install pyKamipi
+```
+  
+```python
+import serial.tools.list_ports
+
+ports = serial.tools.list_ports.comports()
+print([port.name for port in ports])
+```
+
+
 ## Move   
   
 ```python
