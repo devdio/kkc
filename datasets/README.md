@@ -31,3 +31,17 @@ Fare: Passenger fare.
 Cabin: Cabin number.
 Embarked: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
 ```
+### Tips
+```
+total_bill: bill in dollars
+tip: tip in dollars
+sex: sex of the bill payer
+smoker: wherer there were smokers in the party
+day: day of the week
+time: 'Lunch', 'Dinner'
+size: size of the party
+```
+
+
+
+
