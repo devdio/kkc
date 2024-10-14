@@ -52,3 +52,22 @@ albert.sound_until_done("random beep", 3)
 
 albert.sound_until_done("robot")
 ```
+```python
+from roboid import *
+
+albert = AlbertAi()
+
+while True:
+    if albert.mic_clicked():
+        albert.sound('beep')
+    if albert.volume_up_clicked():
+        albert.sound('noise')
+    if albert.volume_down_clicked():
+        albert.sound('siren')
+    if albert.play_clicked():
+        albert.sound('engine')
+    if albert.back_clicked():
+        albert.sound('robot')
+
+    wait(10)
+```
