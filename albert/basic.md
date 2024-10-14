@@ -1,6 +1,7 @@
 # Basic
 ## Move
 
+### move forward
 ```python
 from roboid import *
 
@@ -13,7 +14,12 @@ wait(3000)
 # move_forward(cm, velocity 100%)
 albert.move_forward(10, 100)
 ```
+### move backward
 
+```python
+move_backward(cm)
+move_backward(cm, velocity)
+```
 
 
 
