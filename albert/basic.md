@@ -48,5 +48,27 @@ turn_right(degree, velocity)
 
 ```
 
+### pivot 
+
+```python
+# Turn around the left wheel
+pivot_left(degree)
+pivot_right(degree)
+
+pivot_left_sec(sec)
+pivot_right_sec(sec)
+```
+
+### control wheels
+
+```python
+wheels(velocity)
+wheels(left_velocity, right_velocity)
+stop()
+```
+
+
+
+
 
 
