@@ -25,6 +25,22 @@ albert.eyes("off") # turn off both eyes
 left_proximity()
 righ_proximity()
 ```
+```python
+from roboid import *
+
+albert = AlbertAi()
+
+hz = 0
+while True:
+    proximity = albert.left_proximity()
+    if proximity < 10:
+        proximity = 0
+    hz = (hz * 5 + proximity * 50) / 10.0
+    albert.buzzer(hz)
+
+    wait(20) # 20 msec
+```
+
 
 ### light sensor
 ```python
