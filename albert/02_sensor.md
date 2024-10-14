@@ -9,6 +9,15 @@ eye(left_color, right_color)
 left_eye(color)
 right_eye(color)
 ```
+```python
+albert.eyes(255, 0, 0, 0, 255, 0) # left: red and right: green
+wait(500) # 0.5 seconds
+
+albert.eyes(0, 0, 255) # both: blue
+wait(500) # 0.5 seconds
+
+albert.eyes("off") # turn off both eyes
+```
 
 ### Proximity sensor
 ```python
