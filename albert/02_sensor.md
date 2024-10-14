@@ -38,3 +38,17 @@ sound(s_id)
 sound(s_id, count)
 ```
 s_id : BEEP, RANDOM BEEP, NOISE, DIBIDIBIDIP, SIREN, ENGINE, ROBOT, MARCH, GOODJOB
+
+```python
+from roboid import *
+
+albert = AlbertAi()
+
+# play sound and wait until done
+albert.sound_until_done("siren")
+
+# random beep: 3 times
+albert.sound_until_done("random beep", 3)
+
+albert.sound_until_done("robot")
+```
