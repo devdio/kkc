@@ -25,6 +25,22 @@ albert.eyes("off") # turn off both eyes
 left_proximity()
 righ_proximity()
 ```
+
+```python
+from roboid import *
+
+albert = AlbertAi()
+
+# wait while the value of the left proximity is less than 30
+while albert.left_proximity() < 30:
+    wait(10) # 10 msec
+
+# move backward 5 cm with beep sound
+albert.sound("beep")
+albert.move_backward() 
+
+```
+
 ```python
 from roboid import *
 
