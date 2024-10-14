@@ -26,6 +26,27 @@ move_backward(cm)
 move_backward(cm, velocity)
 ```
 
+### move for sec
+```python
+move_forward_sec(2)
+move_forward_sec(2, 50)
+
+move_backward_sec(2)
+move_backward_sec(2, 50)
+```
+
+### turn
+
+```python
+turn_left()
+turn_left(degree)
+turn_left(degree, velocity)
+
+turn_right()
+turn_right(degree)
+turn_right(degree, velocity)
+
+```
 
 
 
