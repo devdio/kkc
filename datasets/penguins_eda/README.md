@@ -9,7 +9,7 @@
 - Include your own code and opinion in English
 
 ---
-## SendMe: iamtopaz@gmail.com (Until 16:00)
+## Send me email: iamtopaz@gmail.com (Until 16:00)
 
   
 ## 성적 
