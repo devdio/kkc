@@ -1,4 +1,4 @@
-# Mid-Term test 
+# Mid-Term test (10/16)
 ## EDA (Exploratory Data Analysis)
 ### Dataset : penguins_size.csv
 
