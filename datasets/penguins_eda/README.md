@@ -13,9 +13,9 @@
 
 
 ```
-- Attendance :    10%
-- Homework 1:      20%
-- Mid-Term Test : 30%
-- Homeworks 2:      20%
-- Final Test :    30%
+- Attendance (출석) :             10%
+- Homework 1 (실습 파일):         20%
+- Mid-Term Test (중간고사 성적):   30%
+- Homeworks 2 (실습 파일):         20%
+- Final Test (기말고사 성적):      30%
 ```
