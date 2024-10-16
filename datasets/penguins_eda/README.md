@@ -12,7 +12,7 @@
 ## Send me email: iamtopaz@gmail.com (Until 16:00)
 
   
-## 성적 
+## Grade (학점) 
 ```
 - Attendance (출석) :             10%
 - Homework 1 (실습 파일):         20%
