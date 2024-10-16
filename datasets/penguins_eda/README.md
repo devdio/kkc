@@ -14,8 +14,8 @@
 
 ```
 - Attendance :    10%
-- Homework :      20%
+- Homework 1:      20%
 - Mid-Term Test : 30%
-- Homeworks:      20%
+- Homeworks 2:      20%
 - Final Test :    30%
 ```
