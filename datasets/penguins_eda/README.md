@@ -6,13 +6,4 @@
 - Processing Duplicated data
 - Processing Missing value
 - Processing Outlier data
-- etc
-
-### Make sure to write your opinion in English
-### Make sure to include your own code
-### 
-
-  
-
-
-
+- Include your own code and opinion in English
