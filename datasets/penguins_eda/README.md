@@ -10,3 +10,12 @@
 
 ---
 ## SendMe: iamtopaz@gmail.com (Until 16:00)
+
+
+```
+- Attendance :    10%
+- Homework :      20%
+- Mid-Term Test : 30%
+- Homeworks:      20%
+- Final Test :    30%
+```
