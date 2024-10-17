@@ -69,7 +69,7 @@ light()
 sound(s_id)
 sound(s_id, count)
 ```
-s_id : BEEP, RANDOM BEEP, NOISE, DIBIDIBIDIP, SIREN, ENGINE, ROBOT, MARCH, GOODJOB
+s_id : BEEP,  SIREN
 
 ```python
 from roboid import *
